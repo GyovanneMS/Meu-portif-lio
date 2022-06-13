@@ -81,11 +81,12 @@ h3::before {
     display: block;
     position: absolute;
     background-color: #c4c4c449;
-    width: 330px;
-    height: 420px;
+    width: 260px;
+    height: 500px;
     transform: rotate(-7deg);
     z-index: -1;
     border-radius: 20px;
+    padding-right: 60px;
 }
 
 .img img {
